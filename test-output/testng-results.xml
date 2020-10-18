@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="125527" started-at="2020-10-18T11:07:57Z" finished-at="2020-10-18T11:10:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="125527" started-at="2020-10-18T11:07:57Z" finished-at="2020-10-18T11:10:03Z">
+      <class name="ZestMoney.qa.Compare">
+        <test-method status="PASS" signature="browserInitialize()[pri:0, instance:ZestMoney.qa.Compare@2b98378d]" name="browserInitialize" is-config="true" duration-ms="11853" started-at="2020-10-18T11:07:57Z" finished-at="2020-10-18T11:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInitialize -->
+        <test-method status="PASS" signature="SubmitReview()[pri:0, instance:ZestMoney.qa.Compare@2b98378d]" name="SubmitReview" duration-ms="113647" started-at="2020-10-18T11:08:09Z" finished-at="2020-10-18T11:10:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitReview -->
+      </class> <!-- ZestMoney.qa.Compare -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
